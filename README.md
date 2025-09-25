@@ -46,5 +46,5 @@ Aqui estão algumas das tecnologias com as quais estou iniciando meus estudos. E
 
 <p align="left">
   <a href="https://www.linkedin.com/in/samuel-de-albuquerque-borges-46b0b32aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-de-albuquerque-borges" height="30" width="40" /></a>
-  <a href="mailto:itzsamuel2003@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="itzsamuel2003@gmail.com" height="30" width="40" /></a>
+  <a href="mailto:itzsamuel2003@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="itzsamuel2003@gmail.com" height="30" width="40" /></a>
 </p>
