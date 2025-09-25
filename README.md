@@ -12,7 +12,7 @@ Estou ativamente em busca da minha primeira oportunidade profissional, seja em u
 
 ## 🚀 Sobre Mim
 
-- 🎓 Cursando **Engenharia de Software** (1º Semestre).
+- 🎓 Cursando **Engenharia de Software**
 - 🌱 Focado em aprender e dominar novas tecnologias.
 - 💼 Procurando por oportunidades para iniciar minha carreira na área de tecnologia.
 - 🎯 Objetivo: Construir um portfólio com projetos práticos e relevantes.
